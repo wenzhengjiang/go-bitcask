@@ -1,0 +1,28 @@
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bitcask.go:247: Open activefile /home/jwzh/testData/000000000.data
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bucket.go:45: Create bucket /home/jwzh/testData/000000000.data
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bitcask.go:247: Open activefile /home/jwzh/testData/000000000.data
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bucket.go:45: Create bucket /home/jwzh/testData/000000000.data
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bucket.go:153: write %s to %s key1 /home/jwzh/testData/000000000.data
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bucket.go:153: write %s to %s key2 /home/jwzh/testData/000000000.data
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bucket.go:45: Create bucket /home/jwzh/testData/000000000.data
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bitcask.go:247: Open activefile /home/jwzh/testData/000000000.data
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bucket.go:45: Create bucket /home/jwzh/testData/000000000.data
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bucket.go:153: write %s to %s key1 /home/jwzh/testData/000000000.data
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bucket.go:153: write %s to %s key2 /home/jwzh/testData/000000000.data
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bucket.go:45: Create bucket /tmp/1
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bucket.go:153: write %s to %s key1 /tmp/1
+
+2014/05/14 23:21:56 /home/jwzh/goproject/src/bitcask_go/bucket.go:153: write %s to %s key2 /tmp/1
