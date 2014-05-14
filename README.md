@@ -1,4 +1,4 @@
-bitcask_go is an implementation of [bitcask]() in Go. It supports 
+bitcask_go is an implementation of [bitcask](http://docs.basho.com/riak/1.2.0/tutorials/choosing-a-backend/Bitcask/) in Go. It supports 
 
 * get, set, delete
 * automatic merge
